@@ -1,0 +1,15 @@
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\obj\Debug\net8.0\DZI_Kazusi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\obj\Debug\net8.0\DZI_Kazusi.AssemblyInfoInputs.cache
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\obj\Debug\net8.0\DZI_Kazusi.AssemblyInfo.cs
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\obj\Debug\net8.0\DZI_Kazusi.csproj.CoreCompileInputs.cache
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\obj\Debug\net8.0\DZI_Kazusi.sourcelink.json
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\bin\Debug\net8.0\DZI_Kazusi.exe
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\bin\Debug\net8.0\DZI_Kazusi.deps.json
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\bin\Debug\net8.0\DZI_Kazusi.runtimeconfig.json
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\bin\Debug\net8.0\DZI_Kazusi.dll
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\bin\Debug\net8.0\DZI_Kazusi.pdb
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\obj\Debug\net8.0\DZI_Kazusi.dll
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\obj\Debug\net8.0\refint\DZI_Kazusi.dll
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\obj\Debug\net8.0\DZI_Kazusi.pdb
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\obj\Debug\net8.0\DZI_Kazusi.genruntimeconfig.cache
+C:\Users\ipstoyanov20\RiderProjects\2425-12-a-os-socket-connection-ipstoyanov20\DZI_Kazusi\DZI_Kazusi\obj\Debug\net8.0\ref\DZI_Kazusi.dll
