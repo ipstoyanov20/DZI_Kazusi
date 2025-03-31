@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DZI_Kazusi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff3f4ed056dec6f4b120bb9a33a362b79698db79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c596a652e0221693a4d30eb9c50a818f3ba8c4b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DZI_Kazusi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DZI_Kazusi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-public class Tema1
+public class Tema10
 {
     public void Run()
     {

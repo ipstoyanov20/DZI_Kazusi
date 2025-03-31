@@ -1,32 +1,27 @@
 ﻿using System.Globalization;
 
-public class Tema1
+public class Tema2
 {
     public void Run()
     {
-        int age = int.Parse(Console.ReadLine());
-        float washingMachinePrice = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-        int presentPrice = int.Parse(Console.ReadLine());
-        int savings = 0;
-        int moneyFromPresents = 0;
-        int bonus = 0;
-        for (int i = 1; i <= age; i++) {
-            if (i % 2 == 0)
-            {
-                bonus += 10;
-                savings += bonus;
-                savings -= 1;
-            }
-            else {
-                moneyFromPresents += presentPrice;
+        var book = new Dictionary <string, string> ();
+        while (true) {
+            var line = Console.ReadLine().Split(' ');
+            switch (line[0]) {
+                case "A": {
+                    book[line[1]] = line[2];
+                    break;
+                }
+                case "S": {
+                    if (book.ContainsKey(line[1])) Console.WriteLine("{0} -> {1}",
+                        line[1], book[line[1]]);
+                    else Console.WriteLine("Contact {0} does not exist.", line[1]);
+                    break;
+                }
+                case "END":
+                    return;
             }
         }
-        var allMoney = savings + moneyFromPresents;
-        if (allMoney >= washingMachinePrice) 
-            Console.WriteLine("Yes! {0}", (allMoney - washingMachinePrice).ToString("F2",CultureInfo.InvariantCulture));
-        else
-            Console.WriteLine("No! {0}", (washingMachinePrice - allMoney).ToString("F2",CultureInfo.InvariantCulture));
-    
     }
     
 }
